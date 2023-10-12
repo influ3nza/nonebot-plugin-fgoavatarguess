@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nonebot-plugin-fgoavatarguess"
-version = "0.1.0"
+version = "0.1.1"
 description = "FGO avatar guess plugin based on Nonebot2"
 authors = ["influ3nza"]
 license = "MIT"

@@ -13,10 +13,10 @@ from .trie import *
 from .game_monitor import *
 from . import _datac
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __plugin_meta__ = PluginMetadata(
-    name="nonebot_plugin_fgoavatarguess",
-    description="FGO猜从者插件",
+    name="FGO猜从者",
+    description="FGO猜从者插件，基于原HoshinoBot猜从者模块修改，感谢原作者。",
     usage="使用指令 `猜从者` 开始游戏，游戏过程中使用指令 `/quitfgo` 结束游戏。",
     config=Config,
     homepage="https://github.com/influ3nza/nonebot-plugin-fgoavatarguess",
